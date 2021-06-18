@@ -2,7 +2,7 @@
 
 Feel free to look around!
 
-<a text-decoration="none" href="https://gomathiraveendran.github.io/sample/"> This is my portfolio, welcome in, it's a work in progress so watch for broken links and unmowed lawn</a>
+<a text-decoration="none" href="https://gomathiraveendran.github.io/sample/"> This is my portfolio, welcome in! <br> it's a work in progress so watch for broken links and unmowed lawn</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GomathiRaveendran&theme=dracula&show_icons=true&count_private=true)
 <br>
