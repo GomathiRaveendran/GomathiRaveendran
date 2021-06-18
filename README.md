@@ -1,6 +1,6 @@
 ### Hi there, Gomathi here 😄
 
-Feel free to look around, and check my portfolio out.
+Feel free to look around!
 
 <a text-decoration="none" href="https://gomathiraveendran.github.io/sample/"> This is my portfolio, welcome in, it's a work in progress so watch for broken links and unmowed lawn</a>
 
