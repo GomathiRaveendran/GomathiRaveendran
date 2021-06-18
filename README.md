@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Gomathi here 😁 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=GomathiRaveendran&theme=dracula&show_icons=true&count_private=true)
+<br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GomathiRaveendran)
+
 
 <!--
 **GomathiRaveendran/GomathiRaveendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
