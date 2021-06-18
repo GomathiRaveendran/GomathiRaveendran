@@ -7,7 +7,7 @@ Feel free to look around, and check my portfolio out.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GomathiRaveendran&theme=dracula&show_icons=true&count_private=true)
 <br>
 
-![](https://komarev.com/ghpvc/?username=GomathiRaveendran&color=dc143c)
+![](https://komarev.com/ghpvc/?username=GomathiRaveendran&color=e62c4b)
 <br>
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GomathiRaveendran)
 <br>
